@@ -6,7 +6,7 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a backend engineer, a game programmer, and a DevOps enthusiast! I would really happy to help with anything related to tech. So, feel free to reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!
+<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a backend engineer, and a DevOps enthusiast! I would be really happy to help with anything related to tech. So, feel free to reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!
 </p>
 
 ### 👨🏽‍💻Tech Stack
