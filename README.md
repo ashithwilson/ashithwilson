@@ -1,12 +1,10 @@
-### Hi there! I'm Ashith 👋
-
 <p align="center">
   <img src="./ashith-intro-github.png"
 </p>
 
 ### 🙋🏽‍♂️About Me
 
-<p> I wear many hats depending on what is required of me but, I am first and foremost, a passionate learner, a backend engineer, and a DevOps enthusiast! I would be really happy to help with anything related to tech. So, feel free to reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between!
+<p>I'm <b>Ashith 👋</b> I'm an Engineer by profession presently working on some awesome stuff at Cloudera. I wear many hats depending on what is required of me. That said, I'm first and foremost, a passionate learner, a backend engineer, and a DevOps enthusiast!
 </p>
 
 ### 👨🏽‍💻Tech Stack
@@ -29,6 +27,24 @@ Here are some things on my todo list.
 - _Practical Reliability Engineering,_ ⚙️
 - _Chaos Engineering: How to design to fail_ ☁
 
-Best.
+### 🤖Also interested in:
+- Video production, Editing/VFX, WordPress, Digital Marketing, SEO.
 
-<a href="https://ashithwilson.com" target="_blank">_Ashith Wilson_</a>
+I would be really happy to help with anything related to tech. So, feel free to reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between! I also speak at colleges and technical conferences. I'm just an invite away - ashithwilson@gmail.com 
+
+Best.  
+Ashith Wilson  
+[ashithwilson.com](https://ashithwilson.com/)
+
+<a href="https://linkedin.com/in/ashithwilson">
+  <img align="left" alt="Ashith Wilson - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
+<a href="https://instagram.com/ashithwilson">
+  <img align="left" alt="Ashith Wilson - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+</a>
+<a href="https://twitter.com/ashithwilson">
+  <img align="left" alt="Ashith Wilson - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://facebook.com/ashithwilson">
+  <img align="left" alt="Ashith Wilson - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
+</a>
