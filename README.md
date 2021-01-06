@@ -39,11 +39,14 @@ Ashith Wilson
 <a href="https://linkedin.com/in/ashithwilson">
   <img align="left" alt="Ashith Wilson - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
-<a href="https://instagram.com/ashithwilson">
-  <img align="left" alt="Ashith Wilson - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
+<a href="mailto:ashithwilson@gmail.com">
+  <img align="left" alt="Ashith Wilson - Gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/>
 </a>
 <a href="https://twitter.com/ashithwilson">
   <img align="left" alt="Ashith Wilson - Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
+</a>
+<a href="https://instagram.com/ashithwilson">
+  <img align="left" alt="Ashith Wilson - Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>
 </a>
 <a href="https://facebook.com/ashithwilson">
   <img align="left" alt="Ashith Wilson - Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg"/>
