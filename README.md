@@ -4,7 +4,9 @@
 
 ### 🙋🏽‍♂️About Me
 
-<p>I'm <b>Ashith 👋</b> An Engineer by profession presently working on some awesome stuff at Cloudera. I wear many hats depending on what is required of me. That said, I'm first and foremost, a passionate learner, an site reliability engineer, and a DevOps enthusiast!
+<p>I'm <b>Ashith 👋</b>
+<br/>
+An Engineer by profession presently working on some awesome stuff at Cloudera. I wear many hats depending on what is required of me. That said, I'm first and foremost, a passionate learner, an site reliability engineer, and a DevOps enthusiast!
 </p>
 
 ### 👨🏽‍💻Tech Stack
