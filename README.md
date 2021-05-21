@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="./ashith-hero.png"
+  <img src="./ashith-wilson-banner.png"
 </p>
