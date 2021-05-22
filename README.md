@@ -11,10 +11,7 @@ An Engineer by profession presently working on some awesome stuff at Cloudera. I
 Here are a few things I've picked up along my learning journey.
 </p>
 
-🐍 Bash, Python<br/>
-☸️ Kubernetes, Docker<br/>
-☁️ AWS, DigitalOcean<br/>
-👨‍🍳 Chef, Jenkins<br/>
+🐍 &nbsp;Bash, Python&nbsp; &nbsp;☸️ &nbsp;Kubernetes, Docker&nbsp;&nbsp;☁️ &nbsp;AWS, DigitalOcean&nbsp;&nbsp;👨‍🍳 &nbsp;Chef, Jenkins
 
 I would be really happy to help with anything related to tech. So, feel free to reach out to me to talk about possible opportunities, mentorship, collaborations and everything in between! I also speak at colleges and technical conferences. I'm just an invite away.
 
